@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-SUMMARY:🎉 Mezunlar Günü’nde buluşuyoruz!
-DESCRIPTION:Ramazan Yaman Fen Lisesi mezunları bir araya geliyor.
+SUMMARY:RAYFEL MEZUNLAR GÜNÜ
+DESCRIPTION:🎉 Mezunlar Günü’nde buluşuyoruz!\n📅 13 Eylül Cumartesi, Saat: 13.00\n📍 Ramazan Yaman Fen Lisesi\n\nTüm mezun, öğrenci ve öğretmenlerimizi aramızda görmekten mutluluk duyarız. ❤️
 DTSTART:20250913T100000Z
-DTEND:20250913T120000Z
+DTEND:20250913T130000Z
 LOCATION:Ramazan Yaman Fen Lisesi
 END:VEVENT
 END:VCALENDAR
